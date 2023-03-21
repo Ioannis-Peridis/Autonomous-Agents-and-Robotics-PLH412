@@ -1,0 +1,11 @@
+Webots Proto Cache File version 1.5
+protoFileHash: 52b13aed2bd99b74d5742a14d7a58b86
+needsRobotAncestor: 1
+baseType: Solid
+slotType: 
+parameters: name,version,contactMaterial,fingerContactMaterial,fingerRadius,fingerTorque,color,handSlot
+tags: hidden
+license: 
+licenseUrl: 
+documentationUrl: 
+info: 
