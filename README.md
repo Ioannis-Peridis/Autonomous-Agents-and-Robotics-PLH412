@@ -5,4 +5,4 @@ with professor : Michail Lagoudakis
 
 from: Techincal University Of Crete
 
-Imlementation of Autonomous Agents in: Webots , Gazebo and R.O.S. environments and experimenting with real NAO and Alpha2 robots
+Imlementation of Autonomous Agents in: Webots , Gazebo and R.O.S. environments and experimenting with real NAO and Alpha2 robots.
